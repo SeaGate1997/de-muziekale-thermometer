@@ -1,4 +1,4 @@
-
+//opnieuw
 const int KPinTemp = A0;
 float temperatureC = 0;
 const int kPinSpeaker = 7;
